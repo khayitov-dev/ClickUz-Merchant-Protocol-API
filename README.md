@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/89244992/194639975-94cd0cf5-613b-4bfb-b0aa-8c2410f91ac8.png)
 
 ```
-                                            Integration ClickUz with Python Django
+                                Integration ClickUz with Python Django
 ```
 
 ## Introduction
